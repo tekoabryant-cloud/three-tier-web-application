@@ -40,4 +40,4 @@ Database Tier
 
 ## Status
 
-🚧 Project in progress
+Completed — Local three-tier application developed, AWS architecture configured and tested, and project documented in GitHub. Live AWS compute resources were terminated after testing to avoid ongoing charges.
